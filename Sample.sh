@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Lord help me"
+echo "Lord I need you"
+
